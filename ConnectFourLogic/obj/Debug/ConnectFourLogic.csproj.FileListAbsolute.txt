@@ -1,0 +1,5 @@
+C:\Users\Maor\Documents\B16 Ex05 AnerCohen 305238099 MaorSchwartz 305136657\B16 Ex05 AnerCohen 305238099 MaorSchwartz 305136657\ConnectFourLogic\bin\Debug\ConnectFourLogic.dll
+C:\Users\Maor\Documents\B16 Ex05 AnerCohen 305238099 MaorSchwartz 305136657\B16 Ex05 AnerCohen 305238099 MaorSchwartz 305136657\ConnectFourLogic\bin\Debug\ConnectFourLogic.pdb
+C:\Users\Maor\Documents\B16 Ex05 AnerCohen 305238099 MaorSchwartz 305136657\B16 Ex05 AnerCohen 305238099 MaorSchwartz 305136657\ConnectFourLogic\obj\Debug\ConnectFourLogic.csprojResolveAssemblyReference.cache
+C:\Users\Maor\Documents\B16 Ex05 AnerCohen 305238099 MaorSchwartz 305136657\B16 Ex05 AnerCohen 305238099 MaorSchwartz 305136657\ConnectFourLogic\obj\Debug\ConnectFourLogic.dll
+C:\Users\Maor\Documents\B16 Ex05 AnerCohen 305238099 MaorSchwartz 305136657\B16 Ex05 AnerCohen 305238099 MaorSchwartz 305136657\ConnectFourLogic\obj\Debug\ConnectFourLogic.pdb

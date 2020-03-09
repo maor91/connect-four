@@ -1,0 +1,15 @@
+C:\Users\Maor\Documents\B16 Ex05 AnerCohen 305238099 MaorSchwartz 305136657\B16 Ex05 AnerCohen 305238099 MaorSchwartz 305136657\ConnectFourWinFormsUI\bin\Debug\ConnectFourWinFormsUI.exe.config
+C:\Users\Maor\Documents\B16 Ex05 AnerCohen 305238099 MaorSchwartz 305136657\B16 Ex05 AnerCohen 305238099 MaorSchwartz 305136657\ConnectFourWinFormsUI\bin\Debug\ConnectFourWinFormsUI.exe
+C:\Users\Maor\Documents\B16 Ex05 AnerCohen 305238099 MaorSchwartz 305136657\B16 Ex05 AnerCohen 305238099 MaorSchwartz 305136657\ConnectFourWinFormsUI\bin\Debug\ConnectFourWinFormsUI.pdb
+C:\Users\Maor\Documents\B16 Ex05 AnerCohen 305238099 MaorSchwartz 305136657\B16 Ex05 AnerCohen 305238099 MaorSchwartz 305136657\ConnectFourWinFormsUI\bin\Debug\ConnectFourLogic.dll
+C:\Users\Maor\Documents\B16 Ex05 AnerCohen 305238099 MaorSchwartz 305136657\B16 Ex05 AnerCohen 305238099 MaorSchwartz 305136657\ConnectFourWinFormsUI\bin\Debug\ConnectFourLogic.pdb
+C:\Users\Maor\Documents\B16 Ex05 AnerCohen 305238099 MaorSchwartz 305136657\B16 Ex05 AnerCohen 305238099 MaorSchwartz 305136657\ConnectFourWinFormsUI\obj\x86\Debug\B16_Ex05.csprojResolveAssemblyReference.cache
+C:\Users\Maor\Documents\B16 Ex05 AnerCohen 305238099 MaorSchwartz 305136657\B16 Ex05 AnerCohen 305238099 MaorSchwartz 305136657\ConnectFourWinFormsUI\obj\x86\Debug\B16_Ex05.GameForm.resources
+C:\Users\Maor\Documents\B16 Ex05 AnerCohen 305238099 MaorSchwartz 305136657\B16 Ex05 AnerCohen 305238099 MaorSchwartz 305136657\ConnectFourWinFormsUI\obj\x86\Debug\B16_Ex05.GameSettingsForm.resources
+C:\Users\Maor\Documents\B16 Ex05 AnerCohen 305238099 MaorSchwartz 305136657\B16 Ex05 AnerCohen 305238099 MaorSchwartz 305136657\ConnectFourWinFormsUI\obj\x86\Debug\B16_Ex05.Properties.Resources.resources
+C:\Users\Maor\Documents\B16 Ex05 AnerCohen 305238099 MaorSchwartz 305136657\B16 Ex05 AnerCohen 305238099 MaorSchwartz 305136657\ConnectFourWinFormsUI\obj\x86\Debug\B16_Ex05.csproj.GenerateResource.Cache
+C:\Users\Maor\Documents\B16 Ex05 AnerCohen 305238099 MaorSchwartz 305136657\B16 Ex05 AnerCohen 305238099 MaorSchwartz 305136657\ConnectFourWinFormsUI\obj\x86\Debug\ConnectFourWinFormsUI.exe
+C:\Users\Maor\Documents\B16 Ex05 AnerCohen 305238099 MaorSchwartz 305136657\B16 Ex05 AnerCohen 305238099 MaorSchwartz 305136657\ConnectFourWinFormsUI\obj\x86\Debug\ConnectFourWinFormsUI.pdb
+C:\Users\Maor\Documents\ConnectFour\ConnectFourWinFormsUI\bin\Debug\ConnectFourWinFormsUI.exe.config
+C:\Users\Maor\Documents\ConnectFour\ConnectFourWinFormsUI\obj\x86\Debug\ConnectFourWinFormsUI.exe
+C:\Users\Maor\Documents\ConnectFour\ConnectFourWinFormsUI\obj\x86\Debug\ConnectFourWinFormsUI.pdb
